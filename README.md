@@ -1,4 +1,5 @@
-# DX Player
+# ![logo](https://user-images.githubusercontent.com/90214645/141180096-437277bd-fc30-409d-9d1b-f7922c64a224.png)DX Player 
+
 
 # Introduction
 This is a music player application named as DX Player.
